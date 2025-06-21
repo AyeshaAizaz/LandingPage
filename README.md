@@ -4,7 +4,10 @@ A modern and responsive landing page for Ricky Cycles, designed to promote exclu
 
 <h1>Screenshots</h1>
 
-(https://github.com/user-attachments/assets/0b3f9705-971a-4d08-8948-be12e7870b5c)
+![landingpage1](https://github.com/user-attachments/assets/e87f375e-4cb3-4587-a971-dccf6109de7d)
 
-(https://github.com/user-attachments/assets/ad5f7a16-a8fb-4662-b04c-7059e12c63e2)
+
+![landingpage2](https://github.com/user-attachments/assets/1051290d-18a5-47a1-a50a-79410f024f19)
+
+
 
